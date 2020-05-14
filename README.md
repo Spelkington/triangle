@@ -1,1 +1,1 @@
-# triangle
+# Repository for Utah Triangle documents.
