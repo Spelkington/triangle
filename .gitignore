@@ -2,3 +2,4 @@
 *.pdf
 *.swp
 PointyPal/.env
+PointyPal/*auth.json
