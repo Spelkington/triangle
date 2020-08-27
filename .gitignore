@@ -2,4 +2,4 @@
 *.pdf
 *.swp
 *.env
-./pointy-pal/node-modules/*
+pointy-pal/node-modules/
