@@ -2,3 +2,4 @@
 *.pdf
 *.swp
 *.env
+./pointy-pal/node-modules/*
