@@ -1,4 +1,4 @@
-import {PermissionOverwrites, GuildChannel, CategoryChannel, User, Client, ChannelData, Guild, PermissionOverwriteOptions} from "discord.js"
+import {PermissionOverwrites, Role, GuildChannel, CategoryChannel, User, Client, ChannelData, Guild, PermissionOverwriteOptions} from "discord.js"
 import {Command} from "../structs/command";
 import fs from 'fs';
 
@@ -10,11 +10,6 @@ export class CourseManager
 
     private commandGuild : Guild;
     private commandChannel : GuildChannel;
-    private departmentCat : CategoryChannel;
-    private coursesCat : CategoryChannel;
-
-    private currentlyAdding : boolean = false;
-
 
     constructor(client: Client)
     {
@@ -26,8 +21,6 @@ export class CourseManager
 
         this.commandGuild = null!;
         this.commandChannel = null!;
-        this.departmentCat = null!;
-        this.coursesCat = null!;
 
     }
 
@@ -42,17 +35,9 @@ export class CourseManager
             let channelId : string = String(process.env.COURSE_MANAGEMENT_ID);
             this.commandChannel = <GuildChannel>this.commandGuild.channels.cache.get(channelId);
 
-            let departmentId : string = String(process.env.DEPARTMENT_CATEGORY_ID);
-            this.departmentCat = <CategoryChannel>this.commandGuild.channels.cache.get(departmentId);
-
-            let courseId : string = String(process.env.COURSE_CATEGORY_ID);
-            this.coursesCat = <CategoryChannel>this.commandGuild.channels.cache.get(courseId);
-
             console.log("CourseManager Initialized!")
             console.log(`\tGuild: ${this.commandGuild.name}`)
             console.log(`\tCommand Channel: ${this.commandChannel.name}`)
-            console.log(`\tCourses Category: ${this.coursesCat.name}`)
-            console.log(`\tDepartments Category: ${this.departmentCat.name}`)
 
         }).catch((error) => {
 
@@ -132,11 +117,56 @@ export class CourseManager
         let textChatName = course.toLowerCase();
         let voiceChatName = course.toUpperCase();
         let departmentChatName = (<string[]>course.match(/[a-z]+|[^a-z]+/gi))[0].toLowerCase();
+        let departmentCatName : string = departmentChatName.toUpperCase();
+
+        // Attempt to find department CategoryChannel;
+        let departmentCat: GuildChannel | undefined = this.commandGuild.channels.cache.find((channel : GuildChannel) => {
+            return channel.name === departmentCatName;
+        });
+
+        if (departmentCat && departmentCat?.type != "category")
+        {
+            throw Error(`Deparment category ${departmentCat?.name} was not a valid CategoryChannel`)
+        }
+        
+        if (!departmentCat)
+        {
+
+            console.log(`Department ${departmentCatName} did not exist - creating!`)
+
+            this.commandGuild.channels.create(departmentCatName, {
+                "type": "category"
+            }).then((channel: GuildChannel) => {
+
+                let everyoneRole : Role | undefined = this.commandGuild.roles.cache.get(this.commandGuild.id);
+                let botRole      : Role | undefined = this.commandGuild.roles.cache.get(process.env.BOT_ROLE_ID!);
+                let facultyRole  : Role | undefined = this.commandGuild.roles.cache.get(process.env.FACULTY_ROLE_ID!);
+
+                channel.updateOverwrite(everyoneRole!, {VIEW_CHANNEL: false});
+                channel.updateOverwrite(botRole!, {VIEW_CHANNEL: true});
+                channel.updateOverwrite(facultyRole!, {MANAGE_MESSAGES: true});
+                
+                this.createCourseChannels(user, channel, textChatName, voiceChatName, departmentChatName);
+
+            });
+        }
+        else
+        {
+            this.createCourseChannels(user, departmentCat, textChatName, voiceChatName, departmentChatName);
+        }
+
+        return 1;
+
+    }
+
+    private createCourseChannels(user : User, departmentCat: GuildChannel, textChatName: string, voiceChatName: string, departmentChatName: string)
+    {
+
 
         let channels = [
-            [course.toLowerCase(), "text", this.coursesCat],
-            [course.toUpperCase(), "voice", this.coursesCat],
-            [(<string[]>course.match(/[a-z]+|[^a-z]+/gi))[0].toLowerCase(), "text", this.departmentCat]
+            [departmentChatName,    "text",     <CategoryChannel>departmentCat],
+            [textChatName,          "text",     <CategoryChannel>departmentCat],
+            [voiceChatName,         "voice",    <CategoryChannel>departmentCat],
         ];
 
         for (let channelDetail of channels)
@@ -173,7 +203,12 @@ export class CourseManager
                     
                     channel.setParent(cat).then(() => {
 
-                        this.addUserToChannelView(user, channel);
+                        // TODO: Eventually add support for matching parent channel permissions.
+                        // channel.lockPermissions().then(() => {
+
+                            channel.updateOverwrite(user.id, {VIEW_CHANNEL: true});
+
+                        //});
 
                     });
 
@@ -184,44 +219,11 @@ export class CourseManager
             }
             else
             {
-                this.addUserToChannelView(user, channel!);
+                channel.updateOverwrite(user.id, {VIEW_CHANNEL: true});
             }
 
 
         }
-
-        return 1;
-    }
-
-    //private async createChannel(name : string,
-    //                      type : "text" | "voice",
-    //                      category : CategoryChannel) : Promise<GuildChannel>
-    //{
-
-    //    let channelData : ChannelData = {} as any;
-    //    channelData.name = name;
-    //    channelData.parentID = category.id;
-
-    //    let actualChannel = await this.commandGuild.channels.create(name, {
-    //        "type": type
-    //    }).then((newChannel : GuildChannel) => {
-
-    //        newChannel.setParent(category);
-
-    //    }).catch((error) => {
-
-    //        console.log(`error while creating ${name}. Deleting...`)
-    //        throw error;
-
-    //    });
-
-    //    return <GuildChannel>actualChannel;
-
-    //}
-
-    private addUserToChannelView(user: User, channel : GuildChannel)
-    {
-        channel.updateOverwrite(user.id, {VIEW_CHANNEL: true});
     }
 
     private addCourses(user: User, courses: string[]) : number

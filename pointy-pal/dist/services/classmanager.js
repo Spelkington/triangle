@@ -7,15 +7,12 @@ exports.CourseManager = void 0;
 var fs_1 = __importDefault(require("fs"));
 var CourseManager = /** @class */ (function () {
     function CourseManager(client) {
-        this.currentlyAdding = false;
         this.client = client;
         var text = fs_1.default.readFileSync("./resources/departments.txt", "utf8");
         this.departments = text.split('\n');
         console.log("CourseManager: Departments Loaded (" + this.departments.length + " departments)");
         this.commandGuild = null;
         this.commandChannel = null;
-        this.departmentCat = null;
-        this.coursesCat = null;
     }
     CourseManager.prototype.initialize = function (client) {
         var _this = this;
@@ -24,15 +21,9 @@ var CourseManager = /** @class */ (function () {
             _this.commandGuild = guild;
             var channelId = String(process.env.COURSE_MANAGEMENT_ID);
             _this.commandChannel = _this.commandGuild.channels.cache.get(channelId);
-            var departmentId = String(process.env.DEPARTMENT_CATEGORY_ID);
-            _this.departmentCat = _this.commandGuild.channels.cache.get(departmentId);
-            var courseId = String(process.env.COURSE_CATEGORY_ID);
-            _this.coursesCat = _this.commandGuild.channels.cache.get(courseId);
             console.log("CourseManager Initialized!");
             console.log("\tGuild: " + _this.commandGuild.name);
             console.log("\tCommand Channel: " + _this.commandChannel.name);
-            console.log("\tCourses Category: " + _this.coursesCat.name);
-            console.log("\tDepartments Category: " + _this.departmentCat.name);
         }).catch(function (error) {
             throw new Error("CourseManager could not load guild!");
         });
@@ -89,10 +80,38 @@ var CourseManager = /** @class */ (function () {
         var textChatName = course.toLowerCase();
         var voiceChatName = course.toUpperCase();
         var departmentChatName = course.match(/[a-z]+|[^a-z]+/gi)[0].toLowerCase();
+        var departmentCatName = departmentChatName.toUpperCase();
+        // Attempt to find department CategoryChannel;
+        var departmentCat = this.commandGuild.channels.cache.find(function (channel) {
+            return channel.name === departmentCatName;
+        });
+        if (departmentCat && (departmentCat === null || departmentCat === void 0 ? void 0 : departmentCat.type) != "category") {
+            throw Error("Deparment category " + (departmentCat === null || departmentCat === void 0 ? void 0 : departmentCat.name) + " was not a valid CategoryChannel");
+        }
+        if (!departmentCat) {
+            console.log("Department " + departmentCatName + " did not exist - creating!");
+            this.commandGuild.channels.create(departmentCatName, {
+                "type": "category"
+            }).then(function (channel) {
+                var everyoneRole = _this.commandGuild.roles.cache.get(_this.commandGuild.id);
+                var botRole = _this.commandGuild.roles.cache.get(process.env.BOT_ROLE_ID);
+                var facultyRole = _this.commandGuild.roles.cache.get(process.env.FACULTY_ROLE_ID);
+                channel.updateOverwrite(everyoneRole, { VIEW_CHANNEL: false });
+                channel.updateOverwrite(botRole, { VIEW_CHANNEL: true });
+                channel.updateOverwrite(facultyRole, { MANAGE_MESSAGES: true });
+                _this.createCourseChannels(user, channel, textChatName, voiceChatName, departmentChatName);
+            });
+        }
+        else {
+            this.createCourseChannels(user, departmentCat, textChatName, voiceChatName, departmentChatName);
+        }
+        return 1;
+    };
+    CourseManager.prototype.createCourseChannels = function (user, departmentCat, textChatName, voiceChatName, departmentChatName) {
         var channels = [
-            [course.toLowerCase(), "text", this.coursesCat],
-            [course.toUpperCase(), "voice", this.coursesCat],
-            [course.match(/[a-z]+|[^a-z]+/gi)[0].toLowerCase(), "text", this.departmentCat]
+            [departmentChatName, "text", departmentCat],
+            [textChatName, "text", departmentCat],
+            [voiceChatName, "voice", departmentCat],
         ];
         var _loop_1 = function (channelDetail) {
             console.log("\tAttempting to add user to " + channelDetail[0]);
@@ -117,13 +136,16 @@ var CourseManager = /** @class */ (function () {
                     "type": type
                 }).then(function (channel) {
                     channel.setParent(cat).then(function () {
-                        _this.addUserToChannelView(user, channel);
+                        // TODO: Eventually add support for matching parent channel permissions.
+                        // channel.lockPermissions().then(() => {
+                        channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
+                        //});
                     });
                 });
                 // I would like to have a channel by now!
             }
             else {
-                this_1.addUserToChannelView(user, channel);
+                channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
             }
         };
         var this_1 = this;
@@ -131,27 +153,6 @@ var CourseManager = /** @class */ (function () {
             var channelDetail = channels_1[_i];
             _loop_1(channelDetail);
         }
-        return 1;
-    };
-    //private async createChannel(name : string,
-    //                      type : "text" | "voice",
-    //                      category : CategoryChannel) : Promise<GuildChannel>
-    //{
-    //    let channelData : ChannelData = {} as any;
-    //    channelData.name = name;
-    //    channelData.parentID = category.id;
-    //    let actualChannel = await this.commandGuild.channels.create(name, {
-    //        "type": type
-    //    }).then((newChannel : GuildChannel) => {
-    //        newChannel.setParent(category);
-    //    }).catch((error) => {
-    //        console.log(`error while creating ${name}. Deleting...`)
-    //        throw error;
-    //    });
-    //    return <GuildChannel>actualChannel;
-    //}
-    CourseManager.prototype.addUserToChannelView = function (user, channel) {
-        channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
     };
     CourseManager.prototype.addCourses = function (user, courses) {
         var changes = 0;
