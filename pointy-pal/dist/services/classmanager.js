@@ -32,7 +32,7 @@ var CourseManager = /** @class */ (function () {
         var changes = 0;
         if (command.channel.id != this.commandChannel.id) {
             console.log("Message was not in the correct channel.");
-            return;
+            return false;
         }
         switch (command.instruction) {
             case "add-class":
@@ -45,7 +45,7 @@ var CourseManager = /** @class */ (function () {
                 break;
         }
         console.log("Changes made: " + changes);
-        return;
+        return changes > 0;
     };
     CourseManager.prototype.validateCourse = function (course) {
         // Use Regular Expression to split courses into alpha and numeric character groups

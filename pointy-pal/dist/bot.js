@@ -31,15 +31,23 @@ var Bot = /** @class */ (function () {
             console.log("\tChannel: " + command.channel.id);
             console.log("\tInstruction: " + command.instruction);
             console.log("\tArguments: " + command.arguments);
+            var success = false;
             switch (command.instruction) {
                 case "add-class":
-                    _this.courseManager.command(command);
+                    success = _this.courseManager.command(command);
                     break;
                 case "remove-class":
-                    _this.courseManager.command(command);
+                    success = _this.courseManager.command(command);
                     break;
                 default:
                     console.log("Instruction " + command.instruction + " was not recognized.");
+                    success = false;
+            }
+            if (success) {
+                msg.channel.send(command.user.toString() + "'s command recognized! Changes have been made.");
+            }
+            else {
+                msg.channel.send(command.user.toString() + "'s message was recognized as a command, but no changes have been made.");
             }
         });
         return this.client.login(process.env.TOKEN);

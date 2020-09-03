@@ -47,13 +47,13 @@ export class CourseManager
 
     }
 
-    public command(command : Command)
+    public command(command : Command) : boolean
     {
         let changes : number = 0;
 
         if (command.channel.id != this.commandChannel.id) {
             console.log("Message was not in the correct channel.")
-            return;
+            return false;
         }
 
         switch (command.instruction) {
@@ -72,7 +72,7 @@ export class CourseManager
 
         console.log(`Changes made: ${changes}`)
 
-        return;
+        return changes > 0;
     }
 
     private validateCourse(course: string) : boolean
