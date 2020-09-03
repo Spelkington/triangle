@@ -139,6 +139,10 @@ var CourseManager = /** @class */ (function () {
                         // TODO: Eventually add support for matching parent channel permissions.
                         // channel.lockPermissions().then(() => {
                         channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
+                        if (channel.type == "text") {
+                            var textChannel = channel;
+                            textChannel.send("Hey " + user.toString() + "! It looks like you're the first one in this class! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!");
+                        }
                         //});
                     });
                 });

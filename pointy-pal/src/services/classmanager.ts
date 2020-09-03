@@ -1,4 +1,4 @@
-import {PermissionOverwrites, Role, GuildChannel, CategoryChannel, User, Client, ChannelData, Guild, PermissionOverwriteOptions} from "discord.js"
+import {PermissionOverwrites, Role, GuildChannel, CategoryChannel, User, Client, ChannelData, Guild, PermissionOverwriteOptions, TextChannel} from "discord.js"
 import {Command} from "../structs/command";
 import fs from 'fs';
 
@@ -208,9 +208,19 @@ export class CourseManager
 
                             channel.updateOverwrite(user.id, {VIEW_CHANNEL: true});
 
+                            if (channel.type == "text")
+                            {
+                                let textChannel : TextChannel = <TextChannel>channel;
+
+                                textChannel.send(
+                                    `Hey ${user.toString()}! It looks like you're the first one in this class! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!`
+                                )
+                            }
+
                         //});
 
                     });
+
 
                 });
 
