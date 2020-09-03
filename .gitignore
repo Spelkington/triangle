@@ -3,3 +3,4 @@
 *.swp
 *.env
 pointy-pal/node_modules/
+*.log

@@ -1,4 +1,4 @@
-import {PermissionOverwrites, Role, GuildChannel, CategoryChannel, User, Client, ChannelData, Guild, PermissionOverwriteOptions} from "discord.js"
+import {PermissionOverwrites, Role, GuildChannel, CategoryChannel, User, Client, ChannelData, Guild, PermissionOverwriteOptions, TextChannel} from "discord.js"
 import {Command} from "../structs/command";
 import fs from 'fs';
 
@@ -47,13 +47,13 @@ export class CourseManager
 
     }
 
-    public command(command : Command)
+    public command(command : Command) : boolean
     {
         let changes : number = 0;
 
         if (command.channel.id != this.commandChannel.id) {
             console.log("Message was not in the correct channel.")
-            return;
+            return false;
         }
 
         switch (command.instruction) {
@@ -72,7 +72,7 @@ export class CourseManager
 
         console.log(`Changes made: ${changes}`)
 
-        return;
+        return changes > 0;
     }
 
     private validateCourse(course: string) : boolean
@@ -208,9 +208,24 @@ export class CourseManager
 
                             channel.updateOverwrite(user.id, {VIEW_CHANNEL: true});
 
+                            if (channel.type == "text")
+                            {
+                                let textChannel : TextChannel = <TextChannel>channel;
+
+                                textChannel.send(
+                                    `Hey ${user.toString()}! It looks like you're the first one in ${textChannel.toString()}! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!`,
+                                );
+
+                                textChannel.send({
+                                    files: ['https://raw.githubusercontent.com/Spelkington/triangle/master/pointy-pal/images/onNewClassChannel.png']
+                                });
+
+                            }
+
                         //});
 
                     });
+
 
                 });
 

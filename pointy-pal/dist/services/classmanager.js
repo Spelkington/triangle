@@ -32,7 +32,7 @@ var CourseManager = /** @class */ (function () {
         var changes = 0;
         if (command.channel.id != this.commandChannel.id) {
             console.log("Message was not in the correct channel.");
-            return;
+            return false;
         }
         switch (command.instruction) {
             case "add-class":
@@ -45,7 +45,7 @@ var CourseManager = /** @class */ (function () {
                 break;
         }
         console.log("Changes made: " + changes);
-        return;
+        return changes > 0;
     };
     CourseManager.prototype.validateCourse = function (course) {
         // Use Regular Expression to split courses into alpha and numeric character groups
@@ -139,6 +139,13 @@ var CourseManager = /** @class */ (function () {
                         // TODO: Eventually add support for matching parent channel permissions.
                         // channel.lockPermissions().then(() => {
                         channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
+                        if (channel.type == "text") {
+                            var textChannel = channel;
+                            textChannel.send("Hey " + user.toString() + "! It looks like you're the first one in " + textChannel.toString() + "! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!");
+                            textChannel.send({
+                                files: ['https://raw.githubusercontent.com/Spelkington/triangle/master/pointy-pal/images/onNewClassChannel.png']
+                            });
+                        }
                         //});
                     });
                 });
