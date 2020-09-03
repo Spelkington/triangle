@@ -141,7 +141,10 @@ var CourseManager = /** @class */ (function () {
                         channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
                         if (channel.type == "text") {
                             var textChannel = channel;
-                            textChannel.send("Hey " + user.toString() + "! It looks like you're the first one in this class! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!");
+                            textChannel.send("Hey " + user.toString() + "! It looks like you're the first one in " + textChannel.toString() + "! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!");
+                            textChannel.send({
+                                files: ['https://raw.githubusercontent.com/Spelkington/triangle/master/pointy-pal/images/onNewClassChannel.png']
+                            });
                         }
                         //});
                     });
