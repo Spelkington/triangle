@@ -213,7 +213,7 @@ export class CourseManager
                                 let textChannel : TextChannel = <TextChannel>channel;
 
                                 textChannel.send(
-                                    `Hey ${user.toString()}! It looks like you're the first one in ${textChannel.toString()}! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!`,
+                                    `Hey ${user.toString()}! It looks like you're the first one in ${textChannel.toString()}! Be sure to invite classmates to <http://discord.utahtriangle.org> - the more, the merrier, after all!`,
                                 );
 
                                 textChannel.send({
