@@ -8,16 +8,18 @@ The Cause of the Utah Chapter of Triangle shall be to maintain a Fraternity of e
 
 In the pursuit of our Cause, each member of the Utah Chapter of Triangle recognizes his obligation to:
 
-1. Observe the precepts of the Fraternity as set forth in the Ritual;
-2. Accept cheerfully his full share of any task, however menial, involved in maintaining our Chapter;
-3. Preserve and promote the chosen ideals of our Fraternity;
+1. Observe the precepts of his Fraternity as set forth in the Ritual;
+2. Accept cheerfully his full share of any task, however menial, involved in maintaining his Chapter;
+3. Preserve and promote the chosen ideals of his Fraternity;
 4. Pay all personal bills promptly, and always live within his means;
 5. Help create in his Chapter an environment in which enduring friendships may be formed;
 6. Maintain a creditable scholastic record;
 7. Promote the welfare of his profession;
 8. Maintain his self-respect by proper conduct at all times;
-9. Uphold faithfully the traditions and program of his Alma Mater;
+9. Uphold faithfully the traditions and program of his Alma Mater; and
 10. Pay the price of success in honest effort.
+
+Our Chapter and each Brother within commit to the constant and lifelong effort of exemplifying these values in our lives and the lives of others.
 
 Fraternally,
   
