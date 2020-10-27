@@ -360,17 +360,17 @@ The Legislature shall hold the power to amend the Constitution of our Chapter wi
 
 The Legislature of our Chapter shall maintain a record of all Resolutions made by our Chapter regarding our Cause, operation, or any other matter where the approval of a quorum of our Legislature is deemed in good faith.
 
-The Legislature shall hold the power to create, expel, or amend Resolutions with a **simple majority** of a standard quorum. Exceptions shall be made in cases where the Resolution defines a required majority on another matter, in which case the power to create, expel, or amend that Resolution shall be the same as the required majority defined within that Resolution.
+The Legislature shall hold the power to create, expel, or amend Resolutions with a **simple majority** of a standard quorum.
 
 #### Revocations of Membership
 
 The Legislature of our Chapter shall hold the power to, in dire and necessary cases, revoke the membership of a Brother.
 
-In cases where the Judicial Board has [voted to pass a proposal](#) for the revocation of membership of a Brother and that Brother has decided to appeal the Judicial Board's decision, the Legslature shall hold a vote on the revocation of a Brother's Triangle membership.
+A revokation of membership shall be created and approved according to the [Judicial process for revocations of membership](#). Once approved, the membership of that Brother shall be considered **tentatively revoked** for **one month**, after which that membership shall be **permanently revoked** unless an appeal is approved by the Legislature of our Chapter.
 
-The Legislature shall hold the power to revoke a Triangle Brother's membership with a **strong majority** of a **three-fourths quorum, excluding the Brother under consideration**.
+While a Brother's Triangle membership is **tentatively revoked**, they shall be barred from attendance of any Triangle event. The only exception to this barment 
 
-If the Legislature votes to revoke a Triangle Brother's membership, the Brother's membership in our Chapter and the National Fraternity shall be revoked and membership records removed.
+The Legislature shall hold the power to overrule a **tentative** revocation of a Triangle Brother's membership with a **simple majority** of a **three-fourths quorum, excluding the Brother under consideration**.
 
 ### Executive Board
 
