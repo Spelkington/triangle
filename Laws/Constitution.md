@@ -37,11 +37,11 @@ As a Recognized Student Organization of the University of Utah and Chapter seeki
 
 ## Article: Membership
 
-The Utah Chapter shall establish two categories of membership, **Brother** and **Alumni Brother**.
+The Utah Chapter shall establish two categories of permanent membership: **Brother** and **Alumni Brother**.
 
-The Brothers and Alumni Brothers of our Chapter shall commit themselves to the Cause of our Chapter, and to the preserve and promote the chosen ideals of our Fraternity.
+The Brothers and Alumni Brothers of our Chapter shall commit themselves to the Cause of our Chapter for as long as they are a Triangle Brother.
 
-Our Chapter shall extend bids to **new members** consisting of men who show distinguished characters, values akin to the chosen ideals of our Fraternity, and who are willing to accept their full share in maintaining a Chapter in which enduring friendships may be formed.
+Our Chapter shall extend bids to **new members**. These **new members** shall be men men of distinguished characters, personal values which exemplify the chosen ideals of our Fraternity, and consist of those who are willing to cheerfully accept their full share in maintaining a Chapter in which enduring friendships may be formed.
 
 Our Chapter shall, in the course of our work in our campus and community, seek out individuals that exemplify the chosen ideals of our Fraternity and extend to them the status of **Chapter Honorary**.
 
@@ -55,9 +55,9 @@ Any man who has completed the Ritual and remains in good standing with our Chapt
 
 Every Brother of our Chapter shall commit to creating, in our Chapter, a lasting environment in which enduring friendships may be formed and the Cause of our Chapter may be pursued.
 
-Each Brother of our Chapter shall commit to being an active participant in creating a strong foundation on which our Chapter can exist by fulfilling his [obligations as a voting constitutent of the Legislature of our Chapter.](#).
+Each Brother of our Chapter shall commit to creating a strong foundation on which our Chapter can exist through [his duties as a voting constitutent of the Legislature of our Chapter.](#).
 
-Each Brother of our Chapter shall commit to being an active and regular participant in Chapter events and undertakings. While absolute attendance shall not be expected by our Chapter, Brothers shall commit to informing our Chapter's Vice President when anticipating an absence from a Chapter event.
+Each Brother of our Chapter shall commit to being a present and constructive force within our Chapter and creating in our Chapter an environment in which enduring friendships may be formed by making a constant effort to visit our Brotherhood as his circumstances may allow.
 
 Each Brother of our Chapter shall commit to finding and recruiting men in our campus community with distinguished characters and values akin to the chosen ideals of our Fraternity, and who shall carry on the traditions and program of our Chapter, Fraternity, and Alma Mater.
 
@@ -85,25 +85,25 @@ Every Brother shall commit his time, effort, and talents to contributing to any 
 
 #### Paying Personal Bills Promptly
 
-Each term as a Triangle Brother, each Brother will commit to promptly paying their [term due](#) to our Chapter. This due will be applied to the operation and insurance of the local Chapter, and the maintenance of the National Fraternity.
+Each term as a Triangle Brother, each Brother will commit to promptly paying their [dues](#) to our Chapter each term. These dues will be applied to the operation and insurance of the local Chapter, and the maintenance of the National Fraternity.
 
-Every Brother shall have a right to open access to the current budget of our Chapter.
+Every Brother shall have a right to view the current budget of our Chapter.
 
 Every Brother shall have the right to pay their term due in installments according to a promissory note signed by himself and our Chapter Treasurer.
 
 Every Brother shall commit to pay their term due in full, or submit to our Chapter Treasurer a promissory note, by the term due date set in advance by our Chapter Treasurer.
 
-If a Brother's term dues remain unpaid one week after the term due date, his membership in our Chapter and the National Fraternity will be revoked and membership records removed.
+If a Brother's term dues remain unpaid one week after the term due date, his membership in our Chapter and the National Fraternity will be revoked without appeal.
 
 ### Alumni Brother
 
-The Alumni Brothers of our Chapter shall consist of those men who have committed themselves to the Cause of our Chapter for the duration of their undergraduate career. These men shall commit to further the Cause and values of our Chapter and Fraternity in the world outside of our Chapter and campus.
+The Alumni Brothers of our Chapter shall consist of those men who have committed themselves to the Cause of our Chapter for the duration of their undergraduate career. These men shall commit to further the Cause and values of our Chapter and Fraternity in the world beyond of our Chapter and campus.
 
 Each Alumni Brother of our Chapter shall commit themselves to assisting the Brothers of our Chapter in their mission to further the Cause of our Chapter and Fraternity.
 
 #### Qualifications for Alumni Brotherhood
 
-Each Brother of our Chapter shall become an Alumni Brother upon the completion of their undergraduate career. Brothers may also become an Alumni Brother upon completion of **seven** semesters as a Triangle Brother.
+Each Brother of our Chapter shall become an Alumni Brother upon the completion of their undergraduate career. Brothers may also become an Alumni Brother upon completion of **five** semesters as a Triangle Brother.
 
 Any Brother of our Chapter who does not qualify to become an Alumni Brother of our Chapter may make an appeal for Alumni Brotherhood.
 
@@ -111,7 +111,7 @@ In order to appeal for Alumni Brotherhood, the Brother must present his appeal t
 
 ### New Member
 
-Students studying in the field of science, architecture, and engineering may bid for membership in our Chapter.
+Students studying in the field of science, architecture, and engineering may receive bids for membership in our Chapter.
 
 Our Chapter shall work to extend these bids to those who show distinguished characters, values akin to the chosen ideals of our Fraternity, and who are willing to accept their full share in maintaining a Chapter in which enduring frienships may be formed.
 
@@ -151,7 +151,7 @@ Potential new members interested in a bid for membership and initiation as a Tri
 
 #### Bids for Membership
 
-Men who have shown an interest in becoming a Brother of our Chapter may receive a bid for membership if they show distinguished characters and values akin to the chosen ideals of our Fraternity by a [bid vote](#).
+Men who have shown an interest in becoming a Brother of our Chapter may receive a bid for membership by a [bid vote](#) from the Legislature of our Chapter.
 
 Members who receive and accept a bid for membership shall take the [Triangle Pledge Oath](#) and be granted the status of **New Member**.
 
@@ -159,34 +159,34 @@ Members who receive and accept a bid for membership shall take the [Triangle Ple
 
 New Members of our Chapter shall commit to a **New Member Term**. In their New Member Term, New Members shall be given a chance to show a dedication to growth of character and commitment to the chosen ideals of Triangle.
 
-Each New Member shall make the same commitments made by Brothers, with the exception of commitments required of the legislature.
+Each New Member shall make the same commitments made by Brothers, with an exception to those commitments required of their role as a Brother of the Legislature.
 
 Each New Member shall commit to be an active participant in Triangle's New Member Education. New Member Education will consist in a series of events designed to teach New Members about the chosen ideals of Triangle and important life skills. New Members shall commit to attending at least **eight** New Member Education sessions.
 
 Each New Member shall also commit to a study of the history and chosen ideals of Triangle and our Chapter. As part of this commitment, each New Member shall:
 
-* Write a one-page synopsis about the [Triangle Fraternity and its Utah Chapter](#);
+* Present a synopsis about the [Triangle Fraternity and its Utah Chapter](#);
 * Read and study the [most recent ratification of the Redbook of the Utah Chapter of Triangle](#);
 * Recall, by memory, the [constituents of the University of Utah's Greek Row](#);
 * Recall, by memory, the [Greek alphabet](#).
 * Recall, by memory, the [Triangle colors and flowers](#);
 * Recall, by memory, the [founding Brothers of Triangle](#);
 * Recall, by memory, the [Triangle Code of Ethics](#); and,
-* Read, study, and analyze [*Everyman: A Morality Play*](#).
+* Read, study, and present an analysis of [*Everyman: A Morality Play*](#).
 
 #### In Which Enduring Friendships May Be Formed
 
 Under no circumstance shall our Chapter, or any Brother in our Chapter, take advantage of New Members. our Chapter and every Brother shall strive to create a welcoming environment for New Members. Neither our Chapter, nor any Brother, shall ever seek to haze or create an unwelcome environment for any New Member. This commitment extends **to and beyond** [National Fraternity](#) and [Fraternity and Sorority Life](#) guidelines.
 
-**Any Brother who violates this solemn commitment shall have their Triangle membership revoked and be reported to the National Fraternity, the University of Utah's Office of Fraternity and Sorority Life, and any relevant legal authorities.**
+**Any Brother who violates this commitment shall have their Triangle membership revoked and be reported to the National Fraternity, the University of Utah's Office of Fraternity and Sorority Life, and any relevant legal authorities.**
 
 #### Initiation
 
 New Members shall have an opportunity to bid for initiation at the end of their New Member Term.
 
-To receive a bid for Initiation from our Chapter, a New Member must complete the requirements of their New Member Term and undergo and pass an [Initiation vote](#) by our Chapter's legislative quorum.
+To receive a bid for Initiation from our Chapter, a New Member must complete the requirements of their New Member Term and be approved by an [Initiation vote](#) by the Legislature of our Chapter.
 
-To accept a bid for Initiation, a New Member must demonstrate knowledge of the history and chosen ideals of our Fraternity. Additionally, New Members accepting a bid for Initiation shall commit to paying an Initiation due to the National Fraternity to support the maintenance of National records in perpetuity.
+To accept a bid for Initiation, a New Member must demonstrate knowledge of the history and chosen ideals of our Fraternity. Additionally, New Members accepting a bid for Initiation shall commit to paying one-time Initiation dues to the National Fraternity to support the maintenance of National records in perpetuity.
 
 Upon his Initiation, each New Member shall become a Brother of the Utah Chapter of Triangle Fraternity and receive the full rights and commitments of a Triangle Brother. They will be recorded as Brothers by the National Fraternity and made eligible for attendance at [National Events](#) and financial aid and scholarships by the [Triangle Education Foundation](#). Additionally, he will become eligible for the status of **Alumni Brother** upon the fulfillment of his commitments to become an **Alumni Brother.**
 
