@@ -39,6 +39,9 @@ var Bot = /** @class */ (function () {
                 case "remove-class":
                     success = _this.courseManager.command(command);
                     break;
+                case "place-in-class":
+                    success = _this.courseManager.command(command);
+                    break;
                 default:
                     console.log("Instruction " + command.instruction + " was not recognized.");
                     success = false;

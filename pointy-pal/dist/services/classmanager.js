@@ -41,6 +41,27 @@ var CourseManager = /** @class */ (function () {
             case "remove-class":
                 changes = this.removeCourses(command.user, command.arguments);
                 break;
+            case "place-in-class":
+                var placedUserID = command.arguments[0].substring(command.arguments[0].lastIndexOf('!') + 1, command.arguments[0].lastIndexOf('>'));
+                console.log(placedUserID);
+                var placedUserHolder = this.commandGuild.members.cache.get(placedUserID);
+                var moverUserHolder = this.commandGuild.members.cache.get(command.user.id);
+                var course = command.arguments[1];
+                if (placedUserHolder && moverUserHolder) {
+                    var moverUser = moverUserHolder;
+                    var placedUser = placedUserHolder;
+                    console.log(moverUser.user.username + " is attempting to move\n\t\t\t\t\t\t     " + placedUser.user.username + " into " + course);
+                    if (moverUser.hasPermission('MANAGE_GUILD')) {
+                        changes = this.addCourses(placedUser.user, [course]);
+                    }
+                    else {
+                        console.log(moverUser.user.username + " didn't have permission to do that!");
+                    }
+                }
+                else {
+                    console.log("Users were not able to be found!");
+                }
+                break;
             default:
                 break;
         }
@@ -78,9 +99,9 @@ var CourseManager = /** @class */ (function () {
         }
         // Determine the names for the three necessary channels
         var textChatName = course.toLowerCase();
-        var voiceChatName = course.toUpperCase();
         var departmentChatName = course.match(/[a-z]+|[^a-z]+/gi)[0].toLowerCase();
         var departmentCatName = departmentChatName.toUpperCase();
+        var voiceChatName = departmentCatName + " Study Room";
         // Attempt to find department CategoryChannel;
         var departmentCat = this.commandGuild.channels.cache.find(function (channel) {
             return channel.name === departmentCatName;
@@ -123,6 +144,7 @@ var CourseManager = /** @class */ (function () {
                 //console.log(`Comparing ${channel.name} to ${name}`);
                 return channel.name === name_1;
             });
+            // If channel doesn't exist, create it and configure the overrides.
             if (!channel) {
                 console.log("\t" + channelDetail[0] + " did not exist! Creating...");
                 // this.createChannel(
@@ -141,7 +163,7 @@ var CourseManager = /** @class */ (function () {
                         channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
                         if (channel.type == "text") {
                             var textChannel = channel;
-                            textChannel.send("Hey " + user.toString() + "! It looks like you're the first one in " + textChannel.toString() + "! Be sure to invite classmates to <http://discord.utahtriangle.com> - the more, the merrier, after all!");
+                            textChannel.send("Hey " + user.toString() + "! It looks like you're the first one in " + textChannel.toString() + "! Be sure to invite classmates to <http://discord.utahtriangle.org> - the more, the merrier, after all!");
                             textChannel.send({
                                 files: ['https://raw.githubusercontent.com/Spelkington/triangle/master/pointy-pal/images/onNewClassChannel.png']
                             });
@@ -153,6 +175,15 @@ var CourseManager = /** @class */ (function () {
             }
             else {
                 channel.updateOverwrite(user.id, { VIEW_CHANNEL: true });
+                if (channel.type == "text") {
+                    var overwrite = channel.permissionOverwrites.find(function (ow) {
+                        return ow.id === user.id;
+                    });
+                    if (!overwrite) {
+                        var textChannel = channel;
+                        textChannel.send(user.toString() + " just joined " + textChannel.toString() + "! Say hi, @here!");
+                    }
+                }
             }
         };
         var this_1 = this;

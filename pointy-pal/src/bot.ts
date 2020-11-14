@@ -51,6 +51,10 @@ export class Bot
                 case "remove-class":
                     success = this.courseManager.command(command);
                     break;
+			   
+                case "place-in-class":
+                    success = this.courseManager.command(command);
+                    break;
 
                 default:
                     console.log(`Instruction ${command.instruction} was not recognized.`);
