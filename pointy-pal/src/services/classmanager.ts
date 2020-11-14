@@ -200,7 +200,6 @@ export class CourseManager
 	private createCourseChannels(user : User, departmentCat: GuildChannel, textChatName: string, voiceChatName: string, departmentChatName: string)
 	{
 
-
 		let channels = [
 			[departmentChatName,    "text",     <CategoryChannel>departmentCat],
 			[textChatName,          "text",     <CategoryChannel>departmentCat],
@@ -252,7 +251,7 @@ export class CourseManager
 							let textChannel : TextChannel = <TextChannel>channel;
 
 							textChannel.send(
-								`Hey ${user.toString()}! It looks like you're the first one in ${textChannel.toString()}! Be sure to invite classmates to <http://discord.utahtriangle.org> - the more, the merrier, after all!`,
+								`Hey ${user.toString()}! It looks like you're the first one in ${textChannel.toString()}! Be sure to invite classmates to <http://campus.utahtriangle.org> - the more, the merrier, after all!`,
 							);
 
 							textChannel.send({
@@ -336,5 +335,4 @@ export class CourseManager
 
 		return changes;
 	}
-
 }
