@@ -118,4 +118,9 @@ Our Chapter resolves not to submit **any** proposals for revokation of membershi
 
 Our Chapter resolves that no member will be penalized for not attending physical events until the COVID-19 pandemic response has been closed by the Chapter's Legislature.
 
+Our Chapter resolves that, following the conclusion of the COVID-19 pandemic response by our Chapter's Legislature, each member will begin their weight at the maximum of:
+
+- Their current standing as of the conclusion of the COVID-19 pandemic response; or
+- A **2/3** attendance ratio of all events, and a **3/4** attendance ratio of their top two attendance categories.
+
 Our Chapter resolves that all implementation resolutions will expire upon the full rollout of the I/O Package Resolutions.
