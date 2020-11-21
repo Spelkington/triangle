@@ -101,7 +101,7 @@ Our Chapter resolves that the Executive Board will always make current standings
 
 Our Chapter resolves that invitations to attend an honorable function will be extended no later than **two weeks** prior to the date of the function.
 
-Our Chapter resolves that any member that is at risk of not receiving an invitation to attend an honorable function will be notified of by the Vice President of this risk no later than **one month** prior to the function.
+Our Chapter resolves that any member that is at risk of not receiving an invitation to attend an honorable function will be notified by the Vice President of this risk no later than **one month** prior to the function.
 
 Our Chapter resolves that invitations to honorable functions must be accepted no later than **one week** prior to the function.
 
