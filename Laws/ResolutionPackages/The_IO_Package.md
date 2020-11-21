@@ -89,7 +89,7 @@ Our Chapter resolves that, if a Brother **does not** fulfill this commitment **i
 
 - punctually attend **one** Rush Event.
 
-Our Chapter resolves to consider any member who does not fulfill this **minimum standard** as having abandoned their commitment to finding men of outstanding character to invite int our Chapter, and **a proposal for revokation of their membership will be submitted.**
+Our Chapter resolves to consider any member who does not fulfill this **minimum standard** as having abandoned their commitment to finding men of outstanding character to invite int our Chapter, and **a proposal for revokation of their membership will be submitted by the Vice President.**
 
 ## Execution
 
