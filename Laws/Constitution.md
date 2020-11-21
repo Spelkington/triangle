@@ -6,17 +6,17 @@ The Cause of the Utah Chapter of Triangle shall be to maintain a Fraternity of e
 - foster lifelong friendships; and
 - live their lives with integrity.
 
-In the pursuit of our Cause, each member of the Utah Chapter of Triangle recognizes his obligation to:
+In the pursuit of our Cause, each member of the Utah Chapter of Triangle recognizes their obligation to:
 
-1. Observe the precepts of his Fraternity as set forth in the Ritual;
-2. Accept cheerfully his full share of any task, however menial, involved in maintaining his Chapter;
-3. Preserve and promote the chosen ideals of his Fraternity;
-4. Pay all personal bills promptly, and always live within his means;
-5. Help create in his Chapter an environment in which enduring friendships may be formed;
+1. Observe the precepts of their Fraternity as set forth in the Ritual;
+2. Accept cheerfully their full share of any task, however menial, involved in maintaining their Chapter;
+3. Preserve and promote the chosen ideals of their Fraternity;
+4. Pay all personal bills promptly, and always live within their means;
+5. Help create in their Chapter an environment in which enduring friendships may be formed;
 6. Maintain a creditable scholastic record;
-7. Promote the welfare of his profession;
-8. Maintain his self-respect by proper conduct at all times;
-9. Uphold faithfully the traditions and program of his Alma Mater; and
+7. Promote the welfare of their profession;
+8. Maintain their self-respect by proper conduct at all times;
+9. Uphold faithfully the traditions and program of their Alma Mater; and
 10. Pay the price of success in honest effort.
 
 Our Chapter and each Brother within commit to the constant and lifelong effort of exemplifying these values in our lives and the lives of others.
@@ -59,31 +59,31 @@ Every Brother of our Chapter shall commit to creating, in our Chapter, a lasting
 
 Each Brother of our Chapter shall commit to creating a strong foundation on which our Chapter can exist through [his duties as a voting constitutent of the Legislature of our Chapter.](#).
 
-Each Brother of our Chapter shall commit to being a present and constructive force within our Chapter and creating in our Chapter an environment in which enduring friendships may be formed by making a constant effort to visit our Brotherhood as his circumstances may allow.
+Each Brother of our Chapter shall commit to being a present and constructive force within our Chapter and creating in our Chapter an environment in which enduring friendships may be formed by making a constant effort to visit our Brotherhood a their circumstances may allow.
 
 Each Brother of our Chapter shall commit to finding and recruiting men in our campus community with distinguished characters and values akin to the chosen ideals of our Fraternity, and who shall carry on the traditions and program of our Chapter, Fraternity, and Alma Mater.
 
-Each Brother of our Chapter shall commit to attending the Initiation of each New Member Class every term. Absolute attendance **shall** be expected by our Chapter in these cases. If any Brother cannot attend the Initiation of a New Member Class, he may request an absence from our Chapter's Vice President prior to the date of the Initiation. If one is not granted, that Brother may be subject to [disciplinary action](#).
+Each Brother of our Chapter shall commit to attending the Initiation of each New Member Class every term. Absolute attendance **shall** be expected by our Chapter in these cases. If any Brother cannot attend the Initiation of a New Member Class, they may request an absence from our Chapter's Vice President prior to the date of the Initiation. If one is not granted, that Brother may be subject to [disciplinary action](#).
 
 #### Academic Integrity
 
-Each Brother of our Chapter shall commit to rigorous study, a creditable scholastic record, and the pursuance of excellence within his field of study.
+Each Brother of our Chapter shall commit to rigorous study, a creditable scholastic record, and the pursuance of excellence within their field of study.
 
-Our Chapter shall recognize, each term, each Brother with a cumulative or term GPA of **4.0** for his outstanding academic achievement, and shall record his distinctive and honorable performance in our Chapter's history.
+Our Chapter shall recognize, each term, each Brother with a cumulative or term GPA of **4.0** for their outstanding academic achievement, and shall record their distinctive and honorable performance in our Chapter's history.
 
-Our Chapter shall recognize, each term, each Brother with a cumulative or term GPA at or above a **3.5** for his commendable academic performance, and shall record his commendable performance in our Chapter's history.
+Our Chapter shall recognize, each term, each Brother with a cumulative or term GPA at or above a **3.5** for their commendable academic performance, and shall record their commendable performance in our Chapter's history.
 
 #### Campus and Community
 
-Each Brother of our Chapter shall commit himself to the faithful upholding of the traditions and program of his Alma Mater and the enhancement of his community through service and philanthropy.
+Each Brother of our Chapter shall commit themselves to the faithful upholding of the traditions and program of their Alma Mater and the enhancement of their community through service and philanthropy.
 
-Each Brother shall commit his time, effort, and talents to the betterment of his campus and community.
+Each Brother shall commit their time, effort, and talents to the betterment of their campus and community.
 
-Each Brother shall commit his time, effort and talents to strengthening bonds of friendship and comradery between the members of our Chapter and our Greek, campus, and local communities.
+Each Brother shall commit their time, effort and talents to strengthening bonds of friendship and comradery between the members of our Chapter and our Greek, campus, and local communities.
 
-Every Brother shall commit his time, effort, and talents to furthering other worthy Causes in the Greek, campus, and local communities that exemplify, compliment, or expand upon the precepts and chosen ideals of our Fraternity and our Chapter's Cause.
+Every Brother shall commit their time, effort, and talents to furthering other worthy Causes in the Greek, campus, and local communities that exemplify, compliment, or expand upon the precepts and chosen ideals of our Fraternity and our Chapter's Cause.
 
-Every Brother shall commit his time, effort, and talents to contributing to any philanthropic efforts undertaken by our Chapter to support organizations whose causes exemplify, compliment, or expand upon the precepts and chosen ideals of our Fraternity and our Chapter's Cause.
+Every Brother shall commit their time, effort, and talents to contributing to any philanthropic efforts undertaken by our Chapter to support organizations whose causes exemplify, compliment, or expand upon the precepts and chosen ideals of our Fraternity and our Chapter's Cause.
 
 #### Paying Personal Bills Promptly
 
@@ -91,11 +91,11 @@ Each term as a Triangle Brother, each Brother will commit to promptly paying the
 
 Every Brother shall have a right to view the current budget of our Chapter.
 
-Every Brother shall have the right to pay their term due in installments according to a promissory note signed by himself and our Chapter Treasurer.
+Every Brother shall have the right to pay their term due in installments according to a promissory note signed by themselves and our Chapter Treasurer.
 
 Every Brother shall commit to pay their term due in full, or submit to our Chapter Treasurer a promissory note, by the term due date set in advance by our Chapter Treasurer.
 
-If a Brother's term dues remain unpaid one week after the term due date, his membership in our Chapter and the National Fraternity will be revoked without appeal.
+If a Brother's term dues remain unpaid one week after the term due date, their membership in our Chapter and the National Fraternity will be revoked without appeal.
 
 ### Alumni Brother
 
@@ -109,7 +109,7 @@ Each Brother of our Chapter shall become an Alumni Brother upon the completion o
 
 Any Brother of our Chapter who does not qualify to become an Alumni Brother of our Chapter may make an appeal for Alumni Brotherhood.
 
-In order to appeal for Alumni Brotherhood, the Brother must present his appeal to the Judicial Board of our Chapter. If the Judicial Board approves the appeal, they may pass the decision to the Alumni Brothers of our Chapter, after which the Alumni Brothers of our Chapter may approve the appeal.
+In order to appeal for Alumni Brotherhood, the Brother must present their appeal to the Judicial Board of our Chapter. If the Judicial Board approves the appeal, they may pass the decision to the Alumni Brothers of our Chapter, after which the Alumni Brothers of our Chapter may approve the appeal.
 
 ### New Member
 
@@ -190,7 +190,7 @@ To receive a bid for Initiation from our Chapter, a New Member must complete the
 
 To accept a bid for Initiation, a New Member must demonstrate knowledge of the history and chosen ideals of our Fraternity. Additionally, New Members accepting a bid for Initiation shall commit to paying one-time Initiation dues to the National Fraternity to support the maintenance of National records in perpetuity.
 
-Upon his Initiation, each New Member shall become a Brother of the Utah Chapter of Triangle Fraternity and receive the full rights and commitments of a Triangle Brother. They will be recorded as Brothers by the National Fraternity and made eligible for attendance at [National Events](#) and financial aid and scholarships by the [Triangle Education Foundation](#). Additionally, he will become eligible for the status of **Alumni Brother** upon the fulfillment of his commitments to become an **Alumni Brother.**
+Upon their Initiation, each New Member shall become a Brother of the Utah Chapter of Triangle Fraternity and receive the full rights and commitments of a Triangle Brother. They will be recorded as Brothers by the National Fraternity and made eligible for attendance at [National Events](#) and financial aid and scholarships by the [Triangle Education Foundation](#). Additionally, they will become eligible for the status of **Alumni Brother** upon the fulfillment of their commitments to become an **Alumni Brother.**
 
 ### Chapter Honorary
 
@@ -236,13 +236,13 @@ All Chapter Meetings shall occur at a time and place agreed upon by our Chapter.
 
 Each Chapter Meeting shall have time allocated for an Overview of any New Business, led by our President and conducted by the Executive Board. Our President and Executive Board shall commit to keeping this Overview to a reasonable time.
 
-If any item of New Business requires discussion by our Chapter, any Brother may request that time be allocated for discussion of that item of New Business. This discussion shall be lead by the Brother to which the item of New Business primarily pertains. The President may end the discussion of the item of New Business at his discretion, or for the sake of time.
+If any item of New Business requires discussion by our Chapter, any Brother may request that time be allocated for discussion of that item of New Business. This discussion shall be lead by the Brother to which the item of New Business primarily pertains. The President may end the discussion of the item of New Business at their discretion, or for the sake of time.
 
 All time following the Overview and discussion of all items of New Business shall be allocated to the [Purpose](#) of our Chapter Meeting.
 
 Each Chapter Meeting shall have an expected duration. Brothers and New Members shall commit to attending for the full expected duration of a Chapter Meeting, but shall not be expected to remain past the expected duration of a Chapter Meeting.
 
-The Brother Secretary of our Chapter shall lead the minuting of the Overview and discussions of New Business of each meeting. Chapter Meeting minutes shall reflect, in good faith, the information of the Overview and discussions of New Business. The Brother Secretary shall ensure Chapter Meeting minutes are available following the minuted Chapter Meeting.
+The Chapter Administrator of our Chapter shall lead the minuting of the Overview and discussions of New Business of each meeting. Chapter Meeting minutes shall reflect, in good faith, the information of the Overview and discussions of New Business. The Chapter Administrator shall ensure Chapter Meeting minutes are available following the minuted Chapter Meeting.
 
 ##### Purpose for Meeting
 
@@ -254,29 +254,29 @@ The Purpose of each Chapter Meeting shall be decided and made available to our C
 
 ##### Brothers' Report
 
-Brothers' Report shall be a Chapter Meeting Purpose dedicated to providing every Brother or Alumni Brother an audience with the other Brothers of his Chapter, in which he can discuss in solemn confidence matters regarding the Cause of our Chapter and the precepts of the Fraternity as set forth by the Ritual.
+Brothers' Report shall be a Chapter Meeting Purpose dedicated to providing every Brother or Alumni Brother an audience with the other Brothers of their Chapter, in which they can discuss in solemn confidence matters regarding the Cause of our Chapter and the precepts of the Fraternity as set forth by the Ritual.
 
 New Members, potential New Members, Chapter Honoraries, and the general public shall not be permitted to be in attendance of a Brothers' Report. All matters of a Brothers' Report shall be discussed in confidence. Brothers and Alumni Brothers shall commit to **never** discuss the matters of any Brothers' Report with any party that was not a Brother or Alumni Brother at the occurrence of that Brothers' Report.
 
-Brothers' Reports shall be led to order by the President of our Chapter and secured by the designated Sergeant at Arms.
+Brothers' Reports shall be led to order by the President of our Chapter and secured by the Vice President of our Chapter unless specified otherwise.
 
 The President of our Chapter shall, in extraneous circumstances, substitute the Purpose of any Chapter Meeting with an emergency Brothers' Report.
 
 #### Commitments of Brothers of the Legislature
 
-Each Brother of our Chapter's Legislature shall commit himself to regularly attend and be a constructive participant at Chapter Meetings.
+Each Brother of our Chapter's Legislature shall commit themselves to regularly attend and be a constructive participant at Chapter Meetings.
 
-Each Brother of our Chapter's Legislature shall commit himself to attend **all** Chapter Meetings with the Purpose of a Brothers' Report.
+Each Brother of our Chapter's Legislature shall commit themselves to attend any Chapter Meeting with the Purpose of a Brothers' Report given sufficient notice.
 
-Each Brother of our Chapter's Legislature shall commit himself to request an exemption from the Vice President of our Chapter if circumstances prevent him from attending a Brother's Report.
+Each Brother of our Chapter's Legislature shall commit themselves to request an exemption from the Vice President of our Chapter if circumstances prevent them from attending a Brother's Report.
 
-The Vice President of our Chapter shall conduct audits to guarantee each Brother of our Chapter's Legislature has upheld his commitments to the Legislature. The Vice President shall personally consult with every Brother of our Chapter's Legislature who, following audit, has not upheld his commitments to the Legislature.
+The Vice President of our Chapter shall conduct audits to guarantee each Brother of our Chapter's Legislature has upheld their commitments to the Legislature. The Vice President shall personally consult with every Brother of our Chapter's Legislature who, following audit, has not upheld their commitments to the Legislature.
 
-The Vice President of our Chapter shall hold the power to suspend the voting privileges of any Brother of our Chapter's Legislature that has not upheld his commitments to the Legislature as determined by audit.
+The Vice President of our Chapter shall hold the power to suspend the voting privileges of any Brother of our Chapter's Legislature that has not upheld their commitments to the Legislature as determined by audit.
 
 The Vice President of our Chapter shall hold the power to reinstate the voting privileges of any Brother of our Chapter's Legislature whose voting privileges were suspended after determination by audit.
 
-Any Brother of our Chapter's Legislature who has had his voting privileges suspended may [appeal](#) his suspension to the Judicial Board of our Chapter.
+Any Brother of our Chapter's Legislature who has had their voting privileges suspended may [appeal](#) their suspension to the Judicial Board of our Chapter.
 
 The President of our Chapter shall present a report of all voting privileges within the body of the Legislature prior to votes made by the Legislature.
 
@@ -284,7 +284,7 @@ The President of our Chapter shall present a report of all voting privileges wit
 
 The Legislature of our Chapter shall vote on matters regarding the cause and organization of our Chapter and Fraternity, or any other matter where the approval of a quorum of our Chapter is deemed to be in good faith.
 
-In general, the Legislature of our Chapter shall be deemed to have a valid quorum when at least ***one-third*** of the voting-eligible Brothers of the Legislature are in attendance. Exceptions to this standard of quorum may be made in special circumstances.
+In general, the Legislature of our Chapter shall be deemed to have a valid quorum when at least ***one-half*** of the voting-eligible Brothers of the Legislature are in attendance. Exceptions to this standard of quorum may be made in special circumstances.
 
 Alumni Brothers of our Chapter present at a convention of the Legislature shall retain the right to vote on matters presented to the Legislature. The presence of Alumni Brothers of our Chapter shall contribute to the count of the quorum but shall not influence the validity of the quorum.
 
@@ -294,9 +294,11 @@ A **simple majority** of the Legislature of our Chapter shall consist of ***one-
 
 A **strong majority** of the Legislature of our Chapter shall consist of ***two-thirds*** a quorum.
 
+A **supermajority** of the Legislature of our Chapter shall consist of ***three-fourths*** a quorum.
+
 ##### ***Alternative Vote***
 
-The Legislature of our Chapter shall, in cases where multiple candidates are presented for a vote, conduct an **alternative vote** where each Brother of the Legislature ranks the candidates in order of preference.
+The Legislature of our Chapter may, in cases where multiple candidates are presented for a vote, conduct an **alternative vote** where each Brother of the Legislature ranks the candidates in order of preference.
 
 * In the first count, each vote is given to the highest ranked candidate. If a candidate receives a simple majority, they win the election. 
 * If no candidate wins a simple majority, the candidate with the least votes is eliminated and their votes are awarded to the next-favored candidate of each vote. 
@@ -305,11 +307,11 @@ This process is repeated until a candidate receives a simple majority.
 
 #### Approval of Chapter Budgets
 
-Each academic year, the Executive Board of our Chapter, led by our Chapter Treasurer, shall present a Budget to the Legislature of our Chapter prior to the submission of dues for the first term of the academic year.
+Each academic term, the Executive Board of our Chapter, led by our Chapter Treasurer, shall present a Budget to the Legislature of our Chapter prior to the submission of dues for the first term of the academic term.
 
-The Legislature of our Chapter shall convene to discuss the Budget presented by our Chapter Treasurer prior to the submission of dues for the first term of the academic year. 
+The Legislature of our Chapter shall convene to discuss the Budget presented by our Chapter Treasurer prior to the submission of dues of every academic term. 
 
-The Legislature of our Chapter may approve the Budget presented by our Chapter Legislature by a **simple majority** of a standard quorum. Until a new Budget is approved, our Treasurer shall allocate money according to the previous academic year's budget.
+The Legislature of our Chapter may approve the Budget presented by our Chapter Legislature by a **simple majority** of a standard quorum. Until a new Budget is approved, our Treasurer shall allocate money according to the previous academic term's budget.
 
 #### Bids for Membership
 
@@ -317,7 +319,7 @@ The Legislature of our Chapter shall, following each term's recruitment period, 
 
 A bid for membership may be extended by a **simple majority** of a standard quorum.
 
-In order for a Brother of our Chapter's Legislature to be eligible to vote on the extension of bids for membership, he must fulfill his commitment to finding and recruiting men in our campus community to carry on the traditions and program of our Chapter and Fraternity.
+In order for a Brother of our Chapter's Legislature to be eligible to vote on the extension of bids for membership, they must fulfill their commitment to finding and recruiting men in our campus community to carry on the traditions and program of our Chapter and Fraternity.
 
 The Vice President of our Chapter shall suspend the voting rights of any Brother of the Legislature who has not fulfilled this commitment for the duration of the votes to extend bids for membership.
 
@@ -327,7 +329,7 @@ The Legislature of our Chapter shall commit to ensure that bids for Initiation a
 
 The Legislature of our Chapter shall conduct a vote for the extension of bids for Initiation to New Members who have satisfied the [requirements for Initiation](#).
 
-The Vice President of our Chapter shall suspend the voting rights of any Brother of the Legislature who has not fulfilled his commitment to be an active and regular participant in Chapter events and undertakings during that New Member Term for the duration of the vote to extend bids for Initiation.
+The Vice President of our Chapter shall suspend the voting rights of any Brother of the Legislature who has not fulfilled thier commitment to be an active and regular participant in Chapter events and undertakings during that New Member Term for the duration of the vote to extend bids for Initiation.
 
 The extension for a bid for Initiation shall be determined by a vote where the conditions are, in order:
 
@@ -340,7 +342,7 @@ In the case of a re-vote on a bid for Initiation of a New Member, the result sha
 * **Negating votes numbering less than or equal to two members of the voting quorum** shall extend to that New Member a bid for Initiation; otherwise,
 * the New Member shall not be extended a bid for Initiaton.
 
-If a New Member is not extended a bid for Initiation, our Chapter may vote by **simple majority** to extend him a [bid for membership](#) during the next academic term.
+If a New Member is not extended a bid for Initiation, our Chapter may vote by **simple majority** to extend them a [bid for membership](#) during the next academic term.
 
 No individual shall be extended more than three bids for membership.
 
@@ -370,9 +372,9 @@ The Legislature of our Chapter shall hold the power to, in dire and necessary ca
 
 A revokation of membership shall be created and approved according to the [Judicial process for revocations of membership](#). Once approved, the membership of that Brother shall be considered **tentatively revoked** for **one month**, after which that membership shall be **permanently revoked** unless an appeal is approved by the Legislature of our Chapter.
 
-While a Brother's Triangle membership is **tentatively revoked**, they shall be barred from attendance of any Triangle event. The only exception to this barment 
+While a Brother's Triangle membership is **tentatively revoked**, they shall be barred from attendance of any Triangle event. The only exception to this barment will be an appeal of this revocation made to the Legislature of our Chapter.
 
-The Legislature shall hold the power to overrule a **tentative** revocation of a Triangle Brother's membership with a **simple majority** of a **three-fourths quorum, excluding the Brother under consideration**.
+The Legislature shall hold the power to overrule a **tentative** revocation of a Triangle Brother's membership with a **strong majority** of a **three-fourths quorum, excluding the Brother under consideration**.
 
 ### Executive Board
 
@@ -396,7 +398,7 @@ Our President shall be the primary point of contact between the Utah Chapter and
 
 Our President shall direct the business and operation of Chapter Meetings.
 
-Our President, along with our Chapter Secretary, shall be a point of contact between our Chapter and our National Fraternity.
+Our President, along with our Chapter Administrator, shall be a point of contact between our Chapter and our National Fraternity.
 
 Our President shall be the primary point of contact between our Chapter and the University of Utah Fraternity & Sorority Life.
 
@@ -408,7 +410,7 @@ The Vice President of our Chapter shall assist the President in the execution of
 
 Our Vice President shall, alongside our Chapter President and Fraternal Officer, work to align the vision and cause of our Chapter with the precepts of the Fraternity as set forth in the Ritual.
 
-Our Vice President shall be the primary advocate, monitor, and executor of the commitments made by each Triangle Brother, and lead his Brothers in accepting full shares of any task, however menial, involved in maintaining our Chapter.
+Our Vice President shall be the primary advocate, monitor, and executor of the commitments made by each Triangle Brother, and lead their Brothers in accepting full shares of any task, however menial, involved in maintaining our Chapter.
 
 Our Vice President shall be the primary monitor of risk within our Chapter and its' activities. This will include proper and thorough education of all members regarding risk, behavior, and maintenance of integrity among the characters of all Brothers.
 
@@ -423,6 +425,8 @@ The Chapter Administrator shall be the primary custodian of all records, both lo
 Our Chapter Administrator shall lead the maintenance of our Chapter's infrastructure, and the advocate for the creation of new chapter infrastructure.
 
 Our Chapter Administrator shall, along with the President of our Chapter, be a point of contact between our Chapter and our National Fraternity.
+
+Our Chapter Administrator shall, along with the President of our Chapter, be a point of contact between our Chapter and the University of Utah's Office of Fraternity and Sorority Life.
 
 Our Chapter Administrator shall be the primary custodian of our Chapter's Redbook and all contents within.
 
@@ -496,30 +500,34 @@ Our Member Educator shall architect and execute creative and engaging programmin
 
 #### Elections for Executive Positions
 
-At the end of each full academic year, the Legislature of our Chapter shall convene to elect a new Executive Board for the following academic year. Elections shall be held in the order of:
+Each year, the Legislature of our Chapter shall convene to elect a new Executive Board for the following year. Elections shall be held in the order of:
 
 1. President
 2. Vice President
-3. Brother Secretary
+3. Chapter Administrator
 4. Chapter Treasurer
 5. Fraternal Officer
 6. External Officer
 7. Recruitment Officer
 8. Member Educator
 
-Any Brother of our Chapter shall be eligible to run for a position on the Executive Board if they are in good standing with our Chapter, the National Fraternity, and the Legislature of our Chapter.
+All elections of new executive positions are to be completed by the **final Monday of October.**
+
+Any Brother of our Chapter shall be eligible to run for the Officer, Administrator and Treasurer positions on the Executive Board if they are in good standing with our Chapter, the National Fraternity, and the Legislature of our Chapter.
 
 Any Brothers shall be eligible to run for the position of Chapter President or Chapter Vice President if they have previously held a role within the Executive Board and have attended at least **one** National Fraternity event.
 
-The Legislature of our Chapter may waive either condition of eligibility for Chapter President or Chapter Vice President for a single term by a **simple majority** of a standard quorum on the condition that the candidate commits to attend the next available National Fraternity event should he be elected to the position.
+The Legislature of our Chapter may waive either condition of eligibility for Chapter President or Chapter Vice President for a single election by a **simple majority** of a standard quorum on the condition that the candidate commits to attend the next available National Fraternity event should they be elected to the position.
 
 In the case that a position on the Executive Board is left vacant, the Legislature of our Chapter shall commit to holding a special election for the position with urgency.
 
 #### Transition of Executive Authority
 
-To facilitate the proper transition between present and elected Executive Boards, the Summer term following an academic year shall be a transitionary period between Boards. During this period, each Brother of the Executive Board shall commit to teaching and advising the Brother elected to succeed their role.
+To facilitate the proper transition between present and elected Executive Boards, the break following the Fall term of each academic year shall be a transitionary period between Boards. During this period, each Brother of the Executive Board shall commit to teaching and advising the Brother elected to succeed their role.
 
-The formal advisory period between present and succeeding Executive Boards shall extend formally to the end of the Summer term. Following the end of the formal advisory period, each Brother of the Executive Board shall commit, in good faith, to advising their successor when solicited for advice.
+All commitments of the Executive Board will transition to the succeeding officers in full on **January 1st** of each year.
+
+Each former Brother of the Executive Board shall commit, in good faith, to advising their successor when solicited for advice following the full transition of Executive Boards.
 
 #### Removal of Executive Officers
 
@@ -533,17 +541,17 @@ The Legislature of our Chapter may remove an Executive Officer by a **strong maj
 
 As a Recognized Student Organization of the University of Utah, our Chapter establishes that grounds for removal include the inadequate fulfillment of aforementioned duties or the violation of regulations described by University policies or any federal, state, or local laws.
 
-In the case that the President is removed from office or the office is vacated, another executive officer shall temporarily assume the responsibilities and commitments of the President. This executive officer shall be determined by the first willing and available offer, in the following order:
+In the case that the President is removed from office or the office is left vacant, another executive officer shall temporarily assume the responsibilities and commitments of the President. This executive officer shall be determined by the first willing and available offer, in the following order:
 
 1. Vice President
 2. Fraternal Officer
-5. Member Educator
-3. Recruitment Officer
-4. External Officer
-6. Brother Secretary
+3. Member Educator
+4. Recruitment Officer
+5. External Officer
+6. Chapter Administrator
 7. Chapter Treasurer
 
-The assumption of the Presidency and the special election of Executive Officers shall be overseen by the Judicial Board and executed by the Legislature of our Chapter.
+The assumption of the Presidency and the special election of Executive Officers shall be overseen by the Judicial Board.
 
 ### Judicial Board
 
@@ -555,15 +563,15 @@ The Judicial Board shall consist of **three** Brothers of our Chapter, each elec
 
 The Legislature of our Chapter shall commit to electing Brothers into vacant positions of the Judicial Board in a timely manner.
 
-Each Brother of the Judicial Board shall commit to maintaining a thorough knowledge of the precepts and chosen ideals of the Fraternity, and shall work diligently to align all decisions he makes as a Brother of the Judicial Board with those precepts and chosen ideals.
+Each Brother of the Judicial Board shall commit to maintaining a thorough knowledge of the precepts and chosen ideals of the Fraternity, and shall work diligently to align all decisions they make as a Brother of the Judicial Board with those precepts and chosen ideals.
 
-Each Brother of the Judicial Board shall commit to keeping all decisions he makes as a Brother of the Judicial Board free of personal biases and conflicts.
+Each Brother of the Judicial Board shall commit to keeping all decisions they make as a Brother of the Judicial Board free of personal biases and conflicts.
 
 No Brother shall be allowed to serve on both the Executive and Judicial Boards simulateously. Additionally, Brothers of the Executive Board shall not be eligible for election to vacancies in the Judicial Board.
 
 #### Conflicts of Interest
 
-In the case that a Brother of the Judicial Board feels he has a conflict of interest in a matter, he shall abstain from being a participant in the Judicial Board's decision on that matter.
+In the case that a Brother of the Judicial Board feels they have a conflict of interest in a matter, they shall abstain from being a participant in the Judicial Board's decision on that matter.
 
 In the case that a Brother of the Judicial Board may have a conflict of interest but chooses not to abstain, that conflicted Brother may be forced to abstain by a **strong majority** of the remaining Judicial Board.
 
@@ -577,7 +585,7 @@ Any Brother serving as a substitute Brother of the Judicial Board shall make the
 
 #### Interpersonal Matters
 
-In the case that a Brother of our Chapter feels a fellow Brother has, on an interpersonal level, significantly shorted the chosen ideals of our Fraternity, he may request that the Judicial Board intervenes as an impartial judge on the interpersonal dispute.
+In the case that a Brother of our Chapter feels a fellow Brother has, on an interpersonal level, significantly shorted the chosen ideals of our Fraternity, they may request that the Judicial Board intervenes as an impartial judge on the interpersonal dispute.
 
 Upon a request for impartial judgement on an interpersonal dispute, the Judicial Board shall seek to find a time and venue at which the Brothers in dispute and the Judicial Board may meet.
 
@@ -590,11 +598,11 @@ The Judicial Board and the Brothers in dispute shall commit to keeping the speci
 - any Brother in dispute feels like a statement to our Chapter including explicit details of the dispute is warranted and **two-thirds (2/3)** of the Judicial Board agrees;
 - any Brother of the Judicial Board feels like a statement to our Chapter is warranted and **two-thirds (2/3)** of the Judicial Board agrees; or
 
-If any Brother of the Judicial Board feels a matter discussed during a personal dispute warrants a revocation of membership, he may convene the Judicial Board himself to discuss the matter.
+If any Brother of the Judicial Board feels a matter discussed during a personal dispute warrants a revocation of membership, they may convene the Judicial Board themselves to discuss the matter.
 
 #### Appeals to Disciplinary Action
 
-In the case that the Executive Board has assigned disciplinary action to a Brother, such as a [suspension of voting privileges](#), he may appeal the Judicial Board to nullify that disciplinary action.
+In the case that the Executive Board has assigned disciplinary action to a Brother, such as a [suspension of voting privileges](#), they may appeal the Judicial Board to nullify that disciplinary action.
 
 Any disciplinary action shall be nullified by a **simple majority** of the Judicial Board.
 
@@ -606,7 +614,7 @@ Any Brother assigned a Fine shall be notified of the assignment by the Vice Pres
 
 The Vice President of our Chapter shall be the only party that may assign a Fine. The Vice President may only assign a Fine listed in the Constitution if and only if the Brother meets the criteria for that Fine, or according to the procedure for an ad hoc fine.
 
-In the case that a Brother commits an action such that some Fine is just but the circumstance is not enumerated in the Constitution and the Vice President of our Chapter is made aware of such an action, he may present an appeal for an *ad-hoc* Fine to the Judicial Board.
+In the case that a Brother commits an action such that some Fine is just but the circumstance is not enumerated in the Constitution and the Vice President of our Chapter is made aware of such an action, they may present an appeal for an *ad-hoc* Fine to the Judicial Board.
 
 An appeal for an *ad-hoc* Fine must include:
 
@@ -658,7 +666,7 @@ If a proposal for revocation of membership is passed, the Brother's membership i
 
 #### Overturning of Judicial Decisions
 
-In the case that a Brother is dissatisfied with a decision made by the Judicial Board of our Chapter, he may exercise his right as a Brother of the Legislature to introduce a [Resolution](#) to overturn that decision.
+In the case that a Brother is dissatisfied with a decision made by the Judicial Board of our Chapter, they may exercise their right as a Brother of the Legislature to introduce a [Resolution](#) to overturn that decision.
 
 ### Academic Council
 
@@ -680,4 +688,4 @@ The Academic Counselor shall be elected by the Legislature of our Chapter by a *
 
 The maximum term for an Academic Counselor of our Chapter shall be **one year** following their election by our Chapter's Legislature. It is not required that the Academic Council serve a full term. In the case that the position of Academic Counselor is vacant, the Legislature of our Chapter shall commit to holding an election for the role with urgency.
 
-The Academic Counselor shall function independently of our Chapter's Executive Board, but shall give routine reports to the Executive Board routinely throughout the duration of their term.
+The Academic Counselor shall function independently of our Chapter's Executive Board, but shall give routine reports to the Executive Board throughout the duration of their term.
