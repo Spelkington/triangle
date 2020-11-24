@@ -333,13 +333,13 @@ The Vice President of our Chapter shall suspend the voting rights of any Brother
 
 The extension for a bid for Initiation shall be determined by a vote where the conditions are, in order:
 
-* **Negating votes numbering less than or equal to two members of the voting quorum** shall extend to that New Member a bid for Initiation; or
-* **Negating votes numbering less than 10% of the voting quorum** shall result in a discussion of the New Member, followed by a [re-vote](#); or
-* **Negating votes numbering greater than or equal to 10% of the voting quorum** shall result in a discussion of the New Member, but our Chapter shall not be allowed to extend the New Member a bid for Initiation.
+* **Negating votes numbering less than or equal to 10% of the voting quorum** shall extend to that New Member a bid for Initiation; or
+* **Negating votes numbering less than 20% of the voting quorum** shall result in a discussion of the New Member, followed by a [re-vote](#); or
+* **Negating votes numbering greater than or equal to 20% of the voting quorum** shall result in a discussion of the New Member, but our Chapter shall not be allowed to extend the New Member a bid for Initiation.
 
 In the case of a re-vote on a bid for Initiation of a New Member, the result shall be determined by a vote where the conditions are:
 
-* **Negating votes numbering less than or equal to two members of the voting quorum** shall extend to that New Member a bid for Initiation; otherwise,
+* **Negating votes numbering less than or equal to 10% members of the voting quorum** shall extend to that New Member a bid for Initiation; otherwise,
 * the New Member shall not be extended a bid for Initiaton.
 
 If a New Member is not extended a bid for Initiation, our Chapter may vote by **simple majority** to extend them a [bid for membership](#) during the next academic term.
